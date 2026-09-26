@@ -1,15 +1,5 @@
-# HW3 Reports: Reinforcement Learning
+# Reports
 
-Two reports document the reinforcement-learning coursework: implementing and tuning a PPO agent for path tracking, followed by task-specific reward design for the Proly environment.
+[![Open PPO Report](https://img.shields.io/badge/Open_PPO_Report-PDF-315A82?style=for-the-badge)](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/ppo-path-tracking-report.pdf)
 
-## PPO Path Tracking
-
-**[Open the PPO report in your browser](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/ppo-path-tracking-report.pdf)**
-
-![First page of the PPO path-tracking report](ppo-report-preview.png)
-
-## Proly Reward Design
-
-**[Open the reward-design report in your browser](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/proly-reward-design-report.pdf)**
-
-![First page of the Proly reward-design report](proly-report-preview.png)
+[![Open Reward Design Report](https://img.shields.io/badge/Open_Reward_Design_Report-PDF-315A82?style=for-the-badge)](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/proly-reward-design-report.pdf)

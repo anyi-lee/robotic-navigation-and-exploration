@@ -23,4 +23,4 @@ Selected implementation files are available under [`src/`](src/). They depend on
 
 ## Report
 
-[Report overview and preview](report/) · [Open PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw2-motion-control/report/hw2-report.pdf)
+[Open PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw2-motion-control/report/hw2-report.pdf)

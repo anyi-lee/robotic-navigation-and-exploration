@@ -14,4 +14,4 @@ The files depend on the course planning framework, which is intentionally not co
 
 ## Report
 
-[Report overview and preview](report/) · [Open PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw1-path-planning/report/hw1-report.pdf)
+[Open PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw1-path-planning/report/hw1-report.pdf)
