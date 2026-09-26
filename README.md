@@ -51,6 +51,10 @@ The controller uses global navigation in open mapped space and task-specific loc
 
 Python · ROS 2 · Nav2 · AMCL · YOLO11 · RGB-D · PyTorch · PPO · OpenCV · Roboflow · Foxglove · PROS Twin
 
+## Environment and reproducibility
+
+The work was developed and evaluated in the course-provided PROS Twin and ROS 2 environment. The repository is a portfolio archive of selected implementations, trained weights, reports, and results; it is not a standalone replacement for the original ROS 2 workspace. Reproduction requires the upstream `pros_car` and `pros_app` frameworks, their course launch/configuration files, and the corresponding ROS 2, Nav2, AMCL, OpenCV, PyTorch, and Ultralytics dependencies. Exact package-version metadata was not preserved, so the reports and demonstration videos are provided as the primary record of the evaluated results.
+
 ## Authorship and course framework
 
 The assignments and final project were built on course-provided frameworks. This repository contains selected implementation files, results, and reports rather than complete copies of those frameworks. My final-project contribution centers on task-level state logic, perception integration, navigation reliability, and manipulation coordination.

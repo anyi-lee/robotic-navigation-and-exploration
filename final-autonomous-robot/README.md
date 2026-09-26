@@ -53,6 +53,10 @@ Nav2 handles long-range movement in mapped open space. Local commands handle clo
 
 Compared with the clean course-framework baseline at `pros_car` commit `3659e63`, the submitted project modified five Python files. The largest change was `mode_manager.py`, which grew from 87 to 1,447 lines as the task controller evolved.
 
+## Execution environment
+
+This project was run inside the course-provided PROS Twin ROS 2 workspace rather than as a standalone Python application. Reproduction requires the upstream `pros_car` and `pros_app` repositories, the course launch and configuration files, a working Nav2/AMCL setup, and the ROS 2 perception dependencies used by `object_detection_node.py` (`cv_bridge`, OpenCV, PyTorch, and Ultralytics YOLO). The selected files in [`src/`](src/) are intended to be placed in their corresponding course packages, with the trained detection weights available to the YOLO ROS 2 package. Exact dependency versions were not recorded, so this repository documents the implementation and evaluated behavior without claiming one-command reproducibility.
+
 ## Framework attribution
 
 The project builds on the course-provided [pros_car](https://github.com/asd56585452/pros_car) and [pros_app](https://github.com/asd56585452/pros_app) frameworks. Only selected modified files are included here; the complete upstream repositories are not redistributed.
