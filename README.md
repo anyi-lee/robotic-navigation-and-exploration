@@ -12,7 +12,7 @@ The final project integrates YOLO-based perception, RGB-D sensing, AMCL localiza
 
 [![Final project demo](final-autonomous-robot/assets/demo-thumbnail.jpg)](https://youtu.be/snCtO602PGs)
 
-**[Watch the full demonstration on YouTube](https://youtu.be/snCtO602PGs)** · **[Local 2.5-minute preview](final-autonomous-robot/assets/demo.mp4)** · **[Read the technical report](https://anyi-lee.github.io/robotic-navigation-and-exploration/final-autonomous-robot/report/final-technical-report.pdf)** · **[Browse all reports](https://anyi-lee.github.io/robotic-navigation-and-exploration/)** · **[Explore the final-project code](final-autonomous-robot/)**
+**[Watch the full demonstration on YouTube](https://youtu.be/snCtO602PGs)** · **[Local 2.5-minute preview](final-autonomous-robot/assets/demo.mp4)** · **[Report overview and preview](final-autonomous-robot/report/)** · **[Open the technical-report PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/final-autonomous-robot/report/final-technical-report.pdf)** · **[Browse all reports](https://anyi-lee.github.io/robotic-navigation-and-exploration/)** · **[Explore the final-project code](final-autonomous-robot/)**
 
 ### Demonstrated tasks
 

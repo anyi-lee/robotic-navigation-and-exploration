@@ -28,4 +28,5 @@ The trained models, evaluation results, and demo media above were produced for H
 - [`src/object_detection_node.py`](src/object_detection_node.py): later ROS 2 integration of the HW4 detection model for the final project
 - [`models/detection.pt`](models/detection.pt): trained detection weights
 - [`models/segmentation.pt`](models/segmentation.pt): trained segmentation weights
-- [Full report](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw4-visual-perception/report/hw4-report.pdf)
+- [Report overview and preview](report/)
+- [Open PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw4-visual-perception/report/hw4-report.pdf)

@@ -33,8 +33,9 @@ The trained agent consistently captured all 10 checkpoints on public maps 1 and 
 ## Materials
 
 - [`src/`](src/): submitted implementation files
-- [PPO path-tracking report](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/ppo-path-tracking-report.pdf)
-- [Proly reward-design report](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/proly-reward-design-report.pdf)
+- [Report overview and previews](report/)
+- [Open the PPO path-tracking PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/ppo-path-tracking-report.pdf)
+- [Open the Proly reward-design PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/hw3-reinforcement-learning/report/proly-reward-design-report.pdf)
 - [`results/path-tracking-model.pt`](results/path-tracking-model.pt): final PPO checkpoint
 
 The files depend on course-provided environments and utilities that are not redistributed here.

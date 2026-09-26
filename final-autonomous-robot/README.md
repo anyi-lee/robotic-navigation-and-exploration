@@ -4,7 +4,7 @@ This individual final project integrates perception, localization, navigation, v
 
 [![Demonstration](assets/demo-thumbnail.jpg)](https://youtu.be/snCtO602PGs)
 
-**[Watch the full demonstration on YouTube](https://youtu.be/snCtO602PGs)** · **[Local 2.5-minute preview](assets/demo.mp4)** · **[Read the seven-page technical report](https://anyi-lee.github.io/robotic-navigation-and-exploration/final-autonomous-robot/report/final-technical-report.pdf)**
+**[Watch the full demonstration on YouTube](https://youtu.be/snCtO602PGs)** · **[Local 2.5-minute preview](assets/demo.mp4)** · **[Report overview and preview](report/)** · **[Open the seven-page PDF](https://anyi-lee.github.io/robotic-navigation-and-exploration/final-autonomous-robot/report/final-technical-report.pdf)**
 
 ## Task results
 
