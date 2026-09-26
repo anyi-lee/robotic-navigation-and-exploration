@@ -10,9 +10,9 @@ This repository documents a progression from path planning and motion control to
 
 The final project integrates YOLO-based perception, RGB-D sensing, AMCL localization, Nav2 navigation, local vehicle control, and robotic-arm manipulation through a finite-state task controller.
 
-[![Final project demo](final-autonomous-robot/assets/demo-thumbnail.jpg)](final-autonomous-robot/assets/demo.mp4)
+[![Final project demo](final-autonomous-robot/assets/demo-thumbnail.jpg)](https://youtu.be/snCtO602PGs)
 
-**[Watch the 2.5-minute demonstration](final-autonomous-robot/assets/demo.mp4)** · **[Read the technical report](final-autonomous-robot/report/final-technical-report.pdf)** · **[Explore the final-project code](final-autonomous-robot/)**
+**[Watch the full demonstration on YouTube](https://youtu.be/snCtO602PGs)** · **[Local 2.5-minute preview](final-autonomous-robot/assets/demo.mp4)** · **[Read the technical report](final-autonomous-robot/report/final-technical-report.pdf)** · **[Explore the final-project code](final-autonomous-robot/)**
 
 ### Demonstrated tasks
 
@@ -60,4 +60,3 @@ See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for upstream projects and a
 ## Author
 
 An-Yi Lee · [GitHub](https://github.com/anyi-lee)
-

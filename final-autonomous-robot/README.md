@@ -2,9 +2,9 @@
 
 This individual final project integrates perception, localization, navigation, vehicle control, and robotic-arm manipulation in the PROS Twin simulation environment.
 
-[![Demonstration](assets/demo-thumbnail.jpg)](assets/demo.mp4)
+[![Demonstration](assets/demo-thumbnail.jpg)](https://youtu.be/snCtO602PGs)
 
-**[Watch the demonstration](assets/demo.mp4)** · **[Read the seven-page technical report](report/final-technical-report.pdf)**
+**[Watch the full demonstration on YouTube](https://youtu.be/snCtO602PGs)** · **[Local 2.5-minute preview](assets/demo.mp4)** · **[Read the seven-page technical report](report/final-technical-report.pdf)**
 
 ## Task results
 
@@ -56,4 +56,3 @@ Compared with the clean course-framework baseline at `pros_car` commit `3659e63`
 ## Framework attribution
 
 The project builds on the course-provided [pros_car](https://github.com/asd56585452/pros_car) and [pros_app](https://github.com/asd56585452/pros_app) frameworks. Only selected modified files are included here; the complete upstream repositories are not redistributed.
-
